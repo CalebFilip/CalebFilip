@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CalebFilip
-- 👀 I’m interested in working in an internship to broaden my skills.
-- 🌱 I’m currently learning computer science with a concentration in software engineering.
-- 💞️ I’m looking to collaborate on simple projects to learn more about coding and GitHub.
+- 👀 I’m interested in working to broaden my skills.
+- 🌱 I’m currently working on my computer science degree at UNC Charlotte.
+- 💞️ I want to collaborate on simple projects to learn more about coding and software development.
 - 📫 You can email me at filip0732caleb@gmail.com
